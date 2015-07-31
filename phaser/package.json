@@ -1,0 +1,16 @@
+{
+  "name": "phaser-example",
+  "version": "0.0.0",
+  "release": "None",
+  "description": "Experiments with Phaser.",
+  "author": "Scott Lewis",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roof12/code-school.git"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-cli": "~0.1.13",
+    "grunt-contrib-connect": "~0.5.0"
+  }
+}
